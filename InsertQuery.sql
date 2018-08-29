@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS json_data (
-    `user_id` INT,
+    `userId` INT,
     `id` INT,
     `title` VARCHAR(79) CHARACTER SET utf8,
     `body` VARCHAR(225) CHARACTER SET utf8
